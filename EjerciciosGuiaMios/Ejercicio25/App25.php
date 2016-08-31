@@ -8,11 +8,11 @@
 	</head>
 	<body>
 		<div class="CajaInicio animated bounceInRight">
-			<h1>UTN FRA</h1>
+			<h1>EJERCICIO 25</h1>
 			<form id="FormIngreso" method="POST" action="mostrar.php">
 				<input type="text"  placeholder="Ingrese alto" name="alto" >
 				<input type="text"  placeholder="Ingrese ancho" name="ancho" >
-				<input type="submit" class="MiBotonUTN"> 	
+				<input type="submit" class="MiBotonUTN" value="Calcular"> 	
 			</form>
 		</div>
 	</body>
